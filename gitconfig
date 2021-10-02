@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ionescu.adelina1012@gmail.com
+	name = Adelina Ionescu
